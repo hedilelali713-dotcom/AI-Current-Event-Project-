@@ -94,9 +94,35 @@ always be required?
 
 
 
-\- AI Model 1: ChatGPT - Pending
+Our project was evaluated using two different AI models.
 
-\- AI Model 2: Gemini - Pending
+
+
+| Category | ChatGPT | Gemini |
+
+| --- | --- | --- |
+
+| Content and Presentation | 19/25 | 22/25 |
+
+| GitHub Collaboration | 21/25 | 5/25 |
+
+| AI Evaluation Setup | 8/25 | 10/25 |
+
+| Reflection Quality | 5/25 | 10/25 |
+
+| Total | 53/100 | 47/100 |
+
+
+
+These scores were provided before the evaluation
+
+and reflection requirements were fully completed.
+
+
+
+\- \[ChatGPT Evaluation](ai-evaluation/ai-model-1.md)
+
+\- \[Gemini Evaluation](ai-evaluation/ai-model-2.md)
 
 
 
@@ -104,9 +130,15 @@ always be required?
 
 
 
-The group reflection will be added after completing
+Our group compared both AI evaluations and reflected
 
-both AI evaluations.
+on the benefits and limitations of using AI during
+
+our research and project development.
+
+
+
+\- \[Read Our Group Reflection](reflection.md)
 
 
 
@@ -114,5 +146,5 @@ both AI evaluations.
 
 
 
-See SOURCES.md for our research sources.
+\- \[Research Sources](SOURCES.md)
 
